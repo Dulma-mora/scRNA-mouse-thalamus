@@ -1,4 +1,4 @@
-# scRNA-seq Analysis of Mouse Thalamus for Cell Type Diversity Analysis and Subpopulation Structure 
+# scRNA-seq Analysis of Mouse Thalamus for Cell Type Diversity Analysis and Subpopulation Structure Identification
 
 This project presents a comprehensive single-cell RNA sequencing analysis of mouse thalamic tissue using Seurat. 
 
